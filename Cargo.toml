@@ -3,5 +3,7 @@ name = "iec"
 version = "0.1.0"
 authors = ["Michael Bryan <michaelfbryan@gmail.com>", "NOP0 <33583294+NOP0@users.noreply.github.com>"]
 edition = "2018"
+description = "A parser for the XML format used to describe IEC 61131-3 programs."
+license = "MIT or Apache-2.0"
 
 [dependencies]
